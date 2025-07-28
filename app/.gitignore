@@ -1,0 +1,12 @@
+# Ignore virtual environments
+venv/
+__pycache__/
+*.pyc
+
+# Ignore output files
+app/output/
+*.json
+
+# Ignore OS/IDE stuff
+.DS_Store
+.vscode/

@@ -1,0 +1,11 @@
+pdfplumber
+sentence-transformers
+scikit-learn
+torch
+transformers
+numpy
+pillow
+requests
+fsspec
+joblib
+tqdm
